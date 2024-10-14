@@ -4,7 +4,8 @@
 # Installation:
 + *Download the release **V1***
 + *Unzip the files and open folder in an IDE/Terminal*
-+ *Run the command* > `***npm install***`
++ *Run the command:*
+> ***`npm install`***
 + ***This installs the required modules to run the API***
 + *Open the **.env** file and replace the placeholder with your **MongoDB Connection URI***
 + *Start the server from **Server.js** file*
